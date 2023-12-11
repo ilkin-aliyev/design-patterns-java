@@ -6,5 +6,7 @@ public class Main {
         dbConnection.addQuery("First query");
         dbConnection.addQuery("Second query");
         dbConnection.showQueries();
+        System.out.println("Test Ingress");
+        System.out.println("One more line");
     }
 }
